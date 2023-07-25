@@ -1,0 +1,6 @@
+UBI_TOOL
+
+The program identifies Potential Ubiquitination(ubi) sites from primary sequence of the protein.
+It uses amino acid features obtained from 3D and 2D environment of experimentally known ubi sites  and weightage are given based on the significance.
+Each lysine in the protein sequence is extracted and its 19 Amino acids flanking on either sides are considered. Weightages are calculated for the surrounding amino acids.
+The ones with highest scores are predicted to be potential ubiquitnation sites.
