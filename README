@@ -1,10 +1,10 @@
-The program identifies Potential Ubiquitination(ubi) sites from primary sequence of the protein.
-It uses amino acid features obtained from 3D and 2D environment of experimentally known ubi sites  and weightage are given based on the significance.
+ults from The program identifies Potential Ubiquitination(ubi) sites from primary sequence of the protein.
+It uses amino acid features obtained from 3D and 2D environment of experimentally known ubi sites  and weightage are given based on the results from significance tests.
 
 
 Example Usage
 =============
-The program takes input as Fasta sequences in batch mode and scores each lysine based on its environment
+The program takes input as Fasta sequences in batch mode and scores each lysine based on its surrounding environmental amino acids
 
 Running the script
 =================
